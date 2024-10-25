@@ -21,7 +21,7 @@ h1 {
 }
 
 h2 {
-    color: #D81B60; /* Rose doux */
+    color: #ab1f52; /* Rose doux */
     font-size: 2rem; /* Taille de police pour les sous-titres */
     margin-top: 1.5rem; /* Espace au-dessus */
     margin-bottom: 0.5rem; /* Espace en dessous */
@@ -42,7 +42,7 @@ ul {
 }
 
 .card-title {
-    color: #D81B60; /* Couleur rose pour les titres de carte */
+    color: #ab1f52; /* Couleur rose pour les titres de carte */
 }
 
 .card-text {
@@ -65,7 +65,7 @@ footer {
 }
 
 .btn:hover {
-    background-color: #C81D5D; /* Couleur plus foncée au survol */
+    background-color: #ab1f52; /* Couleur plus foncée au survol */
     transition: background-color 0.3s; /* Effet de transition */
 }
 /* Importer la police Roboto depuis Google Fonts */
@@ -99,6 +99,6 @@ footer {
 }
 
 #about img {
-    border: 4px solid #D81B60; /* Bordure rose autour de l'image */
+    border: 4px solid #ab1f52; /* Bordure rose autour de l'image */
     border-radius: 50%; /* Rendre l'image circulaire */
 }
